@@ -22,4 +22,4 @@ criteria across four matched sectors (Banking, Technology, Fertilizer, Cement).
 Python (Pandas, NumPy, Matplotlib, yfinance), Google Colab
 
 ## Files
-- `shariah_portfolio_analysis.ipynb` — full analysis notebook
+- `Shariah_vs_Conventional_Portfolio_Analysis.ipynb` — full analysis notebook
